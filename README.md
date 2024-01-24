@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/zsnails" target="blank"><img src="https://img.shields.io/twitter/follow/zsnails?logo=twitter&style=for-the-badge" alt="zsnails" /></a> </p>
 
-- 🔭 I’m currently working on [taskr](https://github.com/zSnails/taskr)
+- 🔭 I’m always working on my [neovim](https://github.com/zSnails/nvim) configuration
 
-- 🌱 I’m currently learning **C++, Dear ImGui**
+<!-- - 🌱 I’m currently learning **nothing atm** -->
 
-- 🔭 I stopped working on [Neco Ark Player](https://github.com/zSnails/neco-annoying)
+<!-- - 🔭 I stopped working on [](https://github.com/zSnails/neco-annoying) -->
 
 - 👨‍💻 All of my projects are available at [https://github.com/zSnails](https://github.com/zSnails)
 
-- 💬 Ask me about **Golang, Python, JavaScript**
+- 💬 Ask me about **Go, Python**
 
-- 📫 How to reach me **erizojuan33@gmail.com**
+<!-- - 📫 How to reach me **erizojuan33@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
