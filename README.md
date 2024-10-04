@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zSnails](https://github.com/zSnails)
 
-- 💬 Ask me about **Go, Python**
+- 💬 Ask me about **Go, Python, C, C++, Rust, Neovim**
 
 <!-- - 📫 How to reach me **erizojuan33@gmail.com** -->
 
